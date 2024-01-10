@@ -2,7 +2,8 @@
 一个部署在cloudflare-worker上的简单短链程序，可自定义短链的路径，上手简单，适合个人小范围使用。
 
 ## 预览
-![image](https://user-images.githubusercontent.com/77608284/154325886-d9b44b56-5b64-4f8e-8b16-59cfbb750f8c.png)
+![image](https://github.com/56warmers/URL-Shorten-Worker/assets/56248947/7a91eaca-58a3-497a-b5eb-11c587bb7b3e)
+
 
 ## 用法
 在 "长链接" 框输入要缩短的长链接, 在下面的自定义路径处填写短链接的路径 (没有填写的话会自动生成一个随机路径) , 然后点击提交即可
