@@ -51,10 +51,7 @@
 #### 创建域名解析
 到域名里的dns解析, 创建a记录, 地址随便填一个, `一定记得将代理状态开关打开,就是那朵云一定要是橙色的` 然后保存即可.
 
-## todo
-- [x] 自定义路径
-- [ ] 增加覆盖自定义路径的选项
-- [ ] 处理k-v限额已满的异常处理
 
 ## 感谢
- 本项目脱胎于另一个同名项目[xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) 感谢原作者！
+ 本项目来源于[wlnxing/URL-Shorten-Worker](https://github.com/wlnxing/URL-Shorten-Worker)感谢原作者！
+
